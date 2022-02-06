@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="tap">Toca la Pantalla para Continuar\n</string>
+    <string name="confirmarSalida">Pulse Otra Vez para Salir…</string>
+    <string name="personaje">Personaje:</string>
+    <string name="status">Estatus:"</string>
+    <string name="species">Especie:"</string>
+    <string name="type">Tipo:"</string>
+    <string name="gender">Género:"</string>
+    <string name="created">Creación:"</string>
+</resources>
