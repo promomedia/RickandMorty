@@ -1,2 +1,2 @@
 # RickandMorty
-App para la prueba de empleo
+App para prueba de empleo
